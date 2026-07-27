@@ -1,0 +1,3 @@
+enum ModelCapabilities {
+    CODING, FUNCTION_CALLING, TEXT_SUMMARISING;
+}
